@@ -1,7 +1,7 @@
 {
   "name": "artifact13",
   "version": "1.0.0",
-  "description": "Minimal Node.js + Express tutorial server exposing GET / (Hello world) and GET /good-evening (Good evening).",
+  "description": "Node.js + Express tutorial server exposing two GET endpoints.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
