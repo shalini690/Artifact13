@@ -1,0 +1,16 @@
+{
+  "name": "artifact13",
+  "version": "1.0.0",
+  "description": "Minimal Node.js + Express tutorial server exposing GET / (Hello world) and GET /good-evening (Good evening).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "license": "ISC"
+}
